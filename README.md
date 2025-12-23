@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Xavier 👋</h1>
 
-<p align="center">  Apasionado de la tecnología • Construyendo cosas útiles </p>
+<p align="center">  Apasionado por la tecnología • Construyendo cosas útiles </p>
 
 
 
