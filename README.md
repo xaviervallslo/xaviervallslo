@@ -22,7 +22,7 @@ Me apasiona transformar los datos en conocimiento útil. He desarrollado dashboa
 - Tableau
 - SQL
 - MySQL
-- Business Intelligence
+- BI
 
 ---
 
