@@ -32,5 +32,6 @@ Me apasiona transformar los datos en conocimiento útil. He desarrollado dashboa
 
 ---
 
+
 ### ✨ Gracias por visitar mi perfil, explora mis repositorios o contactarme para colaborar.
 
