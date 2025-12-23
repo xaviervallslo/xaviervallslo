@@ -1,14 +1,32 @@
-# 👋 Soy Xavier Valls
+<h1 align="center">👋 ¡Hola! Soy Xavier Valls </h1>
 
-Bienvenido a mi perfil de GitHub.
+<p align="center">  Apasionado por la tecnología • Construyendo cosas útiles </p>
+
+---
 
 ## 🚀 Sobre mí
-- Desarrollador interesado en web y automatización
-- Aprendiendo GitHub, Python y más
 
-## 📌 Proyectos destacados
-- [Mi proyecto 1](#)
-- [Mi proyecto 2](#)
+- 💻 Me gusta crear proyectos prácticos y aprender nuevas tecnologías  
+- 📚 Actualmente explorando: GitHub, automatización
+- 🧠 Siempre buscando mejorar mis habilidades y compartir lo que aprendo  
 
-## 📫 Contacto
-Puedes encontrarme en: www.linkedin.com/in/xaviervallslopez 
+---
+
+## 🛠️ Tecnologías y herramientas
+  
+- Python  
+- GitHub  
+- Power BI
+- Ttableau  
+
+---
+
+## 🌐 Conecta conmigo
+
+- ✉️ Email: *tu-correo-aquí*  
+- 💼 [LinkedIn](https://linkedin.com/in/xaviervallslopez)
+
+---
+
+### ✨ Gracias por visitar mi perfil, explora mis repositorios o contactarme para colaborar.
+
