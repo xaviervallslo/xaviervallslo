@@ -17,7 +17,9 @@
 - Python  
 - GitHub  
 - Power BI
-- Ttableau  
+- Tableau
+- SQL
+- MySQL
 
 ---
 
