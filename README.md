@@ -2,6 +2,7 @@
 
 <p align="center">  Apasionado por la tecnología • Construyendo cosas útiles </p>
 
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">](https://www.linkedin.com/in/TU-USUARIO/)
 
 
 ## 🚀 Sobre mí
@@ -21,10 +22,6 @@ Me apasiona transformar los datos en conocimiento útil. He desarrollado dashboa
 - Tableau
 - SQL
 - MySQL
-
-
-## 🌐 Conecta conmigo [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">](https://www.linkedin.com/in/TU-USUARIO/)
-
 
 
 ### ✨ Gracias por visitar mi perfil, explora mis repositorios o contactarme para colaborar.
