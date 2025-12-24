@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Xavier 👋</h1>
 
-<p align="center">  Apasionado por la tecnología • Construyendo cosas útiles </p>
+<p align="center">  Apasionado por la tecnología • Construyendo proyectos útiles </p>
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">](https://www.linkedin.com/in/TU-USUARIO/)
 
