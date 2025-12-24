@@ -25,7 +25,7 @@ Me apasiona transformar los datos en conocimiento útil. He desarrollado dashboa
 
 ## 🌐 Conecta conmigo
 - ✉️ Email: *tu-correo-aquí*  
-- 💼 [LinkedIn](https://linkedin.com/in/xaviervallslopez)
+- 💼 [💼](https://linkedin.com/in/xaviervallslopez)
 
 
 ### ✨ Gracias por visitar mi perfil, explora mis repositorios o contactarme para colaborar.
