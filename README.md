@@ -23,11 +23,7 @@ Me apasiona transformar los datos en conocimiento útil. He desarrollado dashboa
 - MySQL
 
 
-## 🌐 Conecta conmigo
-
-- 💼 [💼](https://linkedin.com/in/xaviervallslopez)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">](https://www.linkedin.com/in/TU-USUARIO/)
+## 🌐 Conecta conmigo [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">](https://www.linkedin.com/in/TU-USUARIO/)
 
 
 
