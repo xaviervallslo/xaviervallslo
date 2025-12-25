@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Xavier 👋</h1>
 
 <p align="center">  Apasionado por la tecnología • Construyendo proyectos útiles </p>
-<a href="https://www.linkedin.com/in/xaviervallslo" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"></a>
+<a href="https://www.linkedin.com/in/xaviervallslopez" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"></a>
 
 ## 🚀 Sobre mí
 Soy análista de datos con más de nueve años en el sector IT. He convertido mi experiencia en sistemas, bases de datos y automatización en una base sólida para extraer, analizar y visualizar información que impulse decisiones estratégicas.
