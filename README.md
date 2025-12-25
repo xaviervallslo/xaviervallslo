@@ -22,12 +22,7 @@ Me apasiona transformar los datos en conocimiento útil. He desarrollado dashboa
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-+++
-<img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
-<img src="https://cdn.simpleicons.org/github/181717" height="40"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" height="40"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40"/>
-
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ### ✨ Gracias por visitar mi perfil, explora mis repositorios o contactarme para colaborar.
