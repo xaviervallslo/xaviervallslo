@@ -8,7 +8,7 @@ Soy análista de datos con más de nueve años en el sector IT. He convertido mi
 Me apasiona transformar los datos en conocimiento útil.
 
 - 💻 Me gusta crear proyectos prácticos y aprender nuevas tecnologías  
-- 📚 Actualmente explorando: GitHub, Automatización, Machine Learning
+- 📚 Actualmente explorando: Automatización, Machine Learning, Big Data
 - 🧠 Siempre buscando mejorar mis habilidades y compartir lo que aprendo  
 
 
