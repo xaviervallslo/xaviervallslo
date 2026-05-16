@@ -24,8 +24,8 @@ Analista de datos con background en IT y más de 8 años en entornos corporativo
 
 ## Proyectos destacados
 
-**Pipeline de Datos Financieros**  
+**[Pipeline de Datos Financieros](https://github.com/xaviervallslo/PipelineDatosFinancieros)**  
 Extracción automatizada de NAV de fondos Fidelity via API · Python · pandas · Task Scheduler
 
-**Monitorización Licencias Microsoft 365**  
-Dashboard Power BI en tiempo real · PowerShell · Power Query · DAX
+**[Dashboard Renfe](https://github.com/xaviervallslo/DashboardRenfe)**  
+Dashboard para análisis de precios y viajes · Power BI · visualización de datos
