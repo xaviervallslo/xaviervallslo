@@ -22,3 +22,10 @@ Analista de datos con background en IT y más de 8 años en entornos corporativo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+## Proyectos destacados
+
+**Pipeline de Datos Financieros**  
+Extracción automatizada de NAV de fondos Fidelity via API · Python · pandas · Task Scheduler
+
+**Monitorización Licencias Microsoft 365**  
+Dashboard Power BI en tiempo real · PowerShell · Power Query · DAX
