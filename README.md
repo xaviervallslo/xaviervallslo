@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Xavier 👋</h1>
+<h1 align="center"> ¡Hola! Soy Xavier </h1>
 
 <p align="center">  Apasionado por la tecnología • Construyendo proyectos útiles 
 <p/>
