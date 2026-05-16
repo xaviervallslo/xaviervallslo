@@ -8,9 +8,9 @@
 Soy análista de datos con más de nueve años en el sector IT. He convertido mi experiencia en sistemas, bases de datos y automatización en una base sólida para extraer, analizar y visualizar información que impulse decisiones estratégicas.
 Me apasiona transformar los datos en conocimiento útil.
 
-- 💻 Me gusta crear proyectos prácticos y aprender nuevas tecnologías  
-- 📚 Actualmente explorando: Automatización, Machine Learning, Big Data
-- 🧠 Siempre buscando mejorar mis habilidades y compartir lo que aprendo  
+- Me gusta crear proyectos prácticos y aprender nuevas tecnologías  
+- Actualmente explorando: Automatización, Machine Learning, Big Data
+- Siempre buscando mejorar mis habilidades y compartir lo que aprendo  
 
 ## 🛠️ Tecnologías y herramientas
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
