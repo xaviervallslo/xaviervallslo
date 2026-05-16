@@ -1,6 +1,6 @@
 <h1 align="center"> ¡Hola! Soy Xavier </h1>
 
-<p align="center"> Data Analyst | SQL | Power BI | Python | Automation <p/>
+<p align="center"> Data Analyst | SQL | Power BI | Python | Business Intelligence <p/>
   <p align="center"> Construyendo proyectos útiles <p/>
     
 <a href="https://www.linkedin.com/in/xaviervallslopez" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"></a>
