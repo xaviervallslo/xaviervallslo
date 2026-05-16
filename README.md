@@ -4,14 +4,14 @@
     
 <p align="center"> <a href="https://www.linkedin.com/in/xaviervallslopez" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"></a>  <p/>
 
-## 🚀 Sobre mí
+## Sobre mí
 Analista de datos con background en IT y más de 8 años en entornos corporativos. Especializado en extracción, transformación y visualización de datos para soporte a la toma de decisiones.
 
 - SQL Server y MySQL para explotación y análisis de datos
 - Dashboards e indicadores en Power BI (DAX, Power Query)
 - Automatización de pipelines y procesos con Python y PowerShell
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
