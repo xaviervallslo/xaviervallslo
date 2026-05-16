@@ -1,7 +1,6 @@
 <h1 align="center"> ¡Hola! Soy Xavier </h1>
 
 <p align="center">Data Analyst | SQL Server · Power BI · Python | Automatización & Reporting | BI & ETL<p/>
-  <p align="center"> Construyendo proyectos útiles <p/>
     
 <p align="center"> <a href="https://www.linkedin.com/in/xaviervallslopez" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"></a>  <p/>
 
