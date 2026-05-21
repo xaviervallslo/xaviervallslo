@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/xaviervallslopez" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"></a>  <p/>
 
 ## Sobre mí
-Analista de datos con background técnico y más de 8 años de experiencia en entornos corporativos. Especializado en análisis, transformación y visualización de datos mediante SQL, Power BI y Python.
+Analista de datos con background técnico y más de 8 años de experiencia en entornos corporativos. Especializado en extracción, transformación y visualización de datos para ayudar en la toma de decisiones mediante análisis y reporting.
 
 - SQL Server y MySQL para explotación y análisis de datos
 - Dashboards e indicadores en Power BI (DAX, Power Query)
