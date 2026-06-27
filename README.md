@@ -27,5 +27,8 @@ Analista de datos con background técnico y más de 8 años de experiencia en en
 **[Pipeline de Datos Financieros](https://github.com/xaviervallslo/PipelineDatosFinancieros)**  
 Extracción automatizada de NAV de fondos Fidelity via API · Python · pandas · Task Scheduler
 
+**[Insurance Solvency & Profitability Tracker](https://github.com/xaviervallslo/InsuranceSolvencyProfitabilityTracker)**  
+Monitorización del Ratio de Solvencia (SCR) y Combined Ratio de aseguradoras europeas — pipeline de datos EIOPA + dashboard en Power BI
+
 **[Dashboard Renfe](https://github.com/xaviervallslo/DashboardRenfe)**  
 Dashboard para análisis de precios y viajes · Power BI · visualización de datos
